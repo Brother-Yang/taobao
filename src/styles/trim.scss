@@ -1,0 +1,16 @@
+// 强制覆盖ui框架的样式
+.in .el-input__inner{
+    border-radius: 18px;
+    width: 200px;
+    border: 2px solid rgb(248, 131, 85);
+  }
+  .cn .el-input__inner{
+    border-radius: 18px;
+    width: 200px;
+    height: 30px;
+  }
+  .banner .el-carousel__button{
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+  }
